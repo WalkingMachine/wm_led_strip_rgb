@@ -3,3 +3,8 @@
 ### Launch
 
   roscore 
+  rosrun rosserial-python serial-node.py <port-name>
+
+### Topic 
+
+  rospub /

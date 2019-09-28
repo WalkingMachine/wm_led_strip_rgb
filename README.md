@@ -7,7 +7,7 @@
 
 ### Topic 
 
-    rospub /Led_Stripe/RGB <Color msg>
+    rostopic pub /Led_Stripe/RGB <Color msg>
 
 ### Message
 
